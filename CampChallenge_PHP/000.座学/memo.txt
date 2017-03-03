@@ -1,6 +1,6 @@
 - OS
-	- windows10 Home 64bit
+ - windows10 Home 64bit
 - CPU
-	- Intel(R)Core(TM)i5-6200U CPU
+ - Intel(R)Core(TM)i5-6200U CPU
 -メモリ
-	- 16GB
+ - 16GB
