@@ -9,7 +9,9 @@ $filename = 'profile.txt';
 $readfile = fopen($filename, 'r');
 //ファイルを表示する
 $filemiru = fgets($readfile);
-echo $filemiru;
+echo "---------ファイル内容ここから---------<br>";
+echo $filemiru, "<br>";
+echo "---------ファイル内容ここまで---------<br>";
 //ファイルを閉じる
 fclose($readfile);
  ?>
