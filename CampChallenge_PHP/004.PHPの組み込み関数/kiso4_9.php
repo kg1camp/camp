@@ -10,5 +10,6 @@ $readfile = fopen($filename, 'r');
 //ファイルを表示する
 $filemiru = fgets($readfile);
 echo $filemiru;
+//ファイルを閉じる
 fclose($readfile);
  ?>
